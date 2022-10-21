@@ -1,11 +1,12 @@
-# Python - Random Password Generator 
+# Python - Login and signup form 
 
 
 
 ## Screen Shot
 
 <p align="left">
-  <img src="https://i.pinimg.com/564x/6d/81/a4/6d81a4ce0eac7d0bc51cc58feca53e89.jpg">  
+  <img src="https://i.pinimg.com/564x/7d/97/49/7d97490c63d055a82922cd72ad8d39dc.jpg"> 
+  <img src="https://i.pinimg.com/564x/a8/82/19/a882192d60c05e344df2bbcd7bde83df.jpg">
 </p>
 <br>
 
@@ -15,15 +16,14 @@
 
 ## Features
 
-* Create a 100% secure password.
+* login your account.
 
-* Random password generation.
+* create new account.
 
-* Choose three modes (normal, medium, hard).
+* Ui by Pyqt5.
 
-* Create a password with a length of 8 to 64.
 
-* We do not store passwords in our system.
+
 
 
 
@@ -32,7 +32,7 @@
 pip install -r requirements.txt
 ```
 
-## Generating a password via following command
+## Run this code in command
 ```
-python randompassword.py
+python main.py
 ```
